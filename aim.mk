@@ -13,3 +13,4 @@ PRODUCT_NAME := aim_j3xnlte
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-J320FN
 PRODUCT_MANUFACTURER := samsung
+# aim_device_samsung_j3xnlte
